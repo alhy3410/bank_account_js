@@ -1,0 +1,12 @@
+#show-each-account{
+  display:none;
+}
+
+.account_info{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.account_info:hover{
+  text-decoration: underline;
+}
